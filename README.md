@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-zawiszewski-72172a1b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperzawiszewski@gmail.com)
 
-**Software Engineer | Open-Source Contributor | 
+Software Engineer | Open-Source Contributor | Student at University of Applied Sciences in Elbląg
 
-Passionate about building scalable solutions and contributing to impactful projects. Strong expertise in **[Your Key Technologies]**. Always learning and exploring new technologies.  
+Passionate about building scalable solutions and contributing to impactful projects. Always learning and exploring new technologies.  
 
 ---
 
