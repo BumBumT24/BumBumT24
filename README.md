@@ -34,7 +34,8 @@ Passionate about building scalable solutions and contributing to impactful proje
 🔧 **Tech Stack**: Python, Docker.  
 
 ## 🎨 Portfolio Preview
-[Portfolio](https://bumbumt24.github.io)
+### [Portfolio](https://bumbumt24.github.io)
+📌 **Description**: Web page.  
 
 ---
 
