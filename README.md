@@ -1,10 +1,9 @@
-# Hello, I'm [Your Name] 👋  
+# Hello, I'm Kacper Zawiszewski 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-zawiszewski-72172a1b9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperzawiszewski@gmail.com)
 
-**Software Engineer | Open-Source Contributor | [Your Specialization]**  
+**Software Engineer | Open-Source Contributor | 
 
 Passionate about building scalable solutions and contributing to impactful projects. Strong expertise in **[Your Key Technologies]**. Always learning and exploring new technologies.  
 
@@ -30,13 +29,13 @@ Passionate about building scalable solutions and contributing to impactful proje
 
 ## 🚀 **Featured Projects**  
 
-### [Project 1](https://github.com/yourusername/project1)  
-📌 **Description**: A [brief description of the project and its purpose].  
-🔧 **Tech Stack**: [List of technologies used].  
+### [Project 1](https://github.com/BumBumT24/Helcro)  
+📌 **Description**: A Calorie calculator app.  
+🔧 **Tech Stack**: React Native, Node, MYSQL.  
 
-### [Project 2](https://github.com/yourusername/project2)  
-📌 **Description**: [Brief explanation of the project].  
-🔧 **Tech Stack**: [List of technologies used].  
+### [Project 2](https://github.com/BumBumT24/Scraper)  
+📌 **Description**: Web scraper.  
+🔧 **Tech Stack**: Python, Docker.  
 
 ---
 
@@ -49,8 +48,7 @@ Passionate about building scalable solutions and contributing to impactful proje
 ---
 
 ## 📫 **Let's Connect!**  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@YourHandle](https://twitter.com/yourhandle)  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)  
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/kacper-zawiszewski-72172a1b9/)   
+- **Email**: [youremail@example.com](mailto:kacperzawiszewski@gmail.com)  
 
 🔍 **Open to collaborations and new opportunities!**  
