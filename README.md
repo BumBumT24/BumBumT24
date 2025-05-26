@@ -29,11 +29,11 @@ Passionate about building scalable solutions and contributing to impactful proje
 
 ## 🚀 **Featured Projects**  
 
-### [Project 1](https://github.com/BumBumT24/Helcro)  
+### [Helcro](https://github.com/BumBumT24/Helcro)  
 📌 **Description**: A Calorie calculator app.  
 🔧 **Tech Stack**: React Native, Node, MYSQL.  
 
-### [Project 2](https://github.com/BumBumT24/Scraper)  
+### [Scraper](https://github.com/BumBumT24/Scraper)  
 📌 **Description**: Web scraper.  
 🔧 **Tech Stack**: Python, Docker.  
 
