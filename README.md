@@ -37,13 +37,6 @@ Passionate about building scalable solutions and contributing to impactful proje
 📌 **Description**: Web scraper.  
 🔧 **Tech Stack**: Python, Docker.  
 
----
-
-## 📊 **GitHub Stats**  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
