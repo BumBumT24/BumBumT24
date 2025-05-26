@@ -41,7 +41,7 @@ Passionate about building scalable solutions and contributing to impactful proje
 ---
 
 ## 📫 **Let's Connect!**  
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/kacper-zawiszewski-72172a1b9/)   
-- **Email**: [youremail@example.com](mailto:kacperzawiszewski@gmail.com)  
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/kacper-zawiszewski-72172a1b9/)   
+- **Email**: [kacperzawiszewski@gmail.com](mailto:kacperzawiszewski@gmail.com)  
 
 🔍 **Open to collaborations and new opportunities!**  
